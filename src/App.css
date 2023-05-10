@@ -1,3 +1,9 @@
+.colorbox {
+  display: flex;
+  height: 3cm;
+  width: 3cm;
+}
+
 .App {
   text-align: center;
 }
